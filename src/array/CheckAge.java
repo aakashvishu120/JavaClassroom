@@ -25,6 +25,7 @@ public class CheckAge {
 				System.out.println("The student with the age " + numbers[i] + " cannot vote.");
 			}
 		}
+		sc.close();
 		
 	}
 

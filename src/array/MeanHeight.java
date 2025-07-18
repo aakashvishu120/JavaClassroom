@@ -23,6 +23,7 @@ public class MeanHeight {
 		mean = sum / 11;
 		System.out.print("Mean Height of the Players : ");
 		System.out.println(mean);
+		scanner.close();
 	}
 
 }

@@ -36,6 +36,7 @@ public class StoreAndSum {
 
 		// Display the total sum
 		System.out.println("\nTotal sum: " + total);
+		scanner.close();
 	}
 
 }

@@ -48,6 +48,7 @@ public class EvenOdd {
 		else {
 			System.out.println(first_element + " is equal to " + last_element);
 		}
+		sc.close();
 	}
 
 }
