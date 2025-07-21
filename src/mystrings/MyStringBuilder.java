@@ -11,5 +11,7 @@ public class MyStringBuilder {
 		}
 		System.out.println(sb.toString());
 	}
+	
+	//It is mutable
 
 }
